@@ -111,6 +111,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0509-fibonacci-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3379-transformed-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bunnybhargavi/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -305,6 +307,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0204-count-primes](https://github.com/bunnybhargavi/Leetcode/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/bunnybhargavi/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
@@ -499,6 +502,7 @@ Let’s grow together — line by line, code by code! 💪
 | [3120-count-the-number-of-special-characters-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bunnybhargavi/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bunnybhargavi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/bunnybhargavi/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3731-find-missing-elements](https://github.com/bunnybhargavi/Leetcode/tree/master/3731-find-missing-elements) |
