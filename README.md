@@ -63,6 +63,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bunnybhargavi/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bunnybhargavi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/bunnybhargavi/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bunnybhargavi/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bunnybhargavi/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bunnybhargavi/Leetcode/tree/master/0202-happy-number) |
@@ -381,6 +382,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0029-divide-two-integers](https://github.com/bunnybhargavi/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/bunnybhargavi/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/bunnybhargavi/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/bunnybhargavi/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bunnybhargavi/Leetcode/tree/master/0231-power-of-two) |
@@ -773,6 +775,7 @@ Let’s grow together — line by line, code by code! 💪
 | [0022-generate-parentheses](https://github.com/bunnybhargavi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bunnybhargavi/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bunnybhargavi/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/bunnybhargavi/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
