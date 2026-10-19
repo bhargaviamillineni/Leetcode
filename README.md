@@ -231,6 +231,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1980-find-unique-binary-string](https://github.com/bunnybhargavi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bunnybhargavi/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bunnybhargavi/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bunnybhargavi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/bunnybhargavi/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bunnybhargavi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bunnybhargavi/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -302,6 +303,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bunnybhargavi/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/bunnybhargavi/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bunnybhargavi/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bunnybhargavi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/bunnybhargavi/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bunnybhargavi/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bunnybhargavi/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -553,6 +555,7 @@ Let’s grow together — line by line, code by code! 💪
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bunnybhargavi/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/bunnybhargavi/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/bunnybhargavi/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bunnybhargavi/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/bunnybhargavi/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bunnybhargavi/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/bunnybhargavi/Leetcode/tree/master/2784-check-if-array-is-good) |
